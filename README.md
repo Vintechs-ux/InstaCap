@@ -27,5 +27,5 @@
 
 ```bash
 git clone https://github.com/Vintechs-ux/InstaCap.git
-cd autoSS
+cd InstaCap
 pip install -r requirements.txt
