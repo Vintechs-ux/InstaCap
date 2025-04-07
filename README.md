@@ -26,6 +26,6 @@
 1. **Clone repository ini:**
 
 ```bash
-git clone https://github.com/username/autoSS.git
+git clone https://github.com/Vintechs-ux/InstaCap.git
 cd autoSS
 pip install -r requirements.txt
