@@ -1,6 +1,6 @@
-# autoSS
+# InstaCap
 
-🚀 **autoSS** adalah proyek Python sederhana untuk keperluan OSINT yang digunakan untuk mengambil screenshot dari Instagram Highlights secara otomatis menggunakan Selenium.
+🚀 **InstaCap** proyek Python sederhana untuk keperluan OSINT , digunakan untuk mengambil screenshot dari Instagram Highlights secara otomatis menggunakan Selenium.
 
 ---
 
@@ -28,5 +28,4 @@
 ```bash
 git clone https://github.com/username/autoSS.git
 cd autoSS
-
 pip install -r requirements.txt
